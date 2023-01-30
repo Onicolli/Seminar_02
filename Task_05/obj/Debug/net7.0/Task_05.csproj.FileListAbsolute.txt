@@ -1,0 +1,15 @@
+C:\Users\texa\Desktop\семинары\семинар 2\Task_05\obj\Debug\net7.0\Task_05.csproj.AssemblyReference.cache
+C:\Users\texa\Desktop\семинары\семинар 2\Task_05\obj\Debug\net7.0\Task_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\texa\Desktop\семинары\семинар 2\Task_05\obj\Debug\net7.0\Task_05.AssemblyInfoInputs.cache
+C:\Users\texa\Desktop\семинары\семинар 2\Task_05\obj\Debug\net7.0\Task_05.AssemblyInfo.cs
+C:\Users\texa\Desktop\семинары\семинар 2\Task_05\obj\Debug\net7.0\Task_05.csproj.CoreCompileInputs.cache
+C:\Users\texa\Desktop\семинары\семинар 2\Task_05\bin\Debug\net7.0\Task_05.exe
+C:\Users\texa\Desktop\семинары\семинар 2\Task_05\bin\Debug\net7.0\Task_05.deps.json
+C:\Users\texa\Desktop\семинары\семинар 2\Task_05\bin\Debug\net7.0\Task_05.runtimeconfig.json
+C:\Users\texa\Desktop\семинары\семинар 2\Task_05\bin\Debug\net7.0\Task_05.dll
+C:\Users\texa\Desktop\семинары\семинар 2\Task_05\bin\Debug\net7.0\Task_05.pdb
+C:\Users\texa\Desktop\семинары\семинар 2\Task_05\obj\Debug\net7.0\Task_05.dll
+C:\Users\texa\Desktop\семинары\семинар 2\Task_05\obj\Debug\net7.0\refint\Task_05.dll
+C:\Users\texa\Desktop\семинары\семинар 2\Task_05\obj\Debug\net7.0\Task_05.pdb
+C:\Users\texa\Desktop\семинары\семинар 2\Task_05\obj\Debug\net7.0\Task_05.genruntimeconfig.cache
+C:\Users\texa\Desktop\семинары\семинар 2\Task_05\obj\Debug\net7.0\ref\Task_05.dll

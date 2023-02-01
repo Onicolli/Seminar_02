@@ -1,0 +1,15 @@
+C:\Users\texa\Desktop\семинары\семинар 2\HW_02\obj\Debug\net7.0\HW_02.csproj.AssemblyReference.cache
+C:\Users\texa\Desktop\семинары\семинар 2\HW_02\obj\Debug\net7.0\HW_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\texa\Desktop\семинары\семинар 2\HW_02\obj\Debug\net7.0\HW_02.AssemblyInfoInputs.cache
+C:\Users\texa\Desktop\семинары\семинар 2\HW_02\obj\Debug\net7.0\HW_02.AssemblyInfo.cs
+C:\Users\texa\Desktop\семинары\семинар 2\HW_02\obj\Debug\net7.0\HW_02.csproj.CoreCompileInputs.cache
+C:\Users\texa\Desktop\семинары\семинар 2\HW_02\bin\Debug\net7.0\HW_02.exe
+C:\Users\texa\Desktop\семинары\семинар 2\HW_02\bin\Debug\net7.0\HW_02.deps.json
+C:\Users\texa\Desktop\семинары\семинар 2\HW_02\bin\Debug\net7.0\HW_02.runtimeconfig.json
+C:\Users\texa\Desktop\семинары\семинар 2\HW_02\bin\Debug\net7.0\HW_02.dll
+C:\Users\texa\Desktop\семинары\семинар 2\HW_02\bin\Debug\net7.0\HW_02.pdb
+C:\Users\texa\Desktop\семинары\семинар 2\HW_02\obj\Debug\net7.0\HW_02.dll
+C:\Users\texa\Desktop\семинары\семинар 2\HW_02\obj\Debug\net7.0\refint\HW_02.dll
+C:\Users\texa\Desktop\семинары\семинар 2\HW_02\obj\Debug\net7.0\HW_02.pdb
+C:\Users\texa\Desktop\семинары\семинар 2\HW_02\obj\Debug\net7.0\HW_02.genruntimeconfig.cache
+C:\Users\texa\Desktop\семинары\семинар 2\HW_02\obj\Debug\net7.0\ref\HW_02.dll
